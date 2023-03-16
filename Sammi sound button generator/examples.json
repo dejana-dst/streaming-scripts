@@ -1,0 +1,80 @@
+[
+  {
+    "color": 12632256.0,
+    "persistent": true,
+    "text": "",
+    "release_duration": 0.0,
+    "queueable": false,
+    "command_list": [
+      {
+        "b1": "",
+        "cmd": 2.0,
+        "obsid": "Main",
+        "pos": 0.0,
+        "vis": true,
+        "ms": 0.0,
+        "sel": false,
+        "dis": false,
+        "xpan": 0.0,
+        "b0": "C:\\Users\\User\\Downloads\\Local\\LioranBoard - Copy\\sound - Copy\\ft_lips.ogg",
+        "v0": 0.57763975155279501105809458749718
+      }
+    ],
+    "press_type": 0.0,
+    "x": 0.1875,
+    "border": 2.0,
+    "image": "",
+    "triggers": [],
+    "group_id": "",
+    "overlappable": false,
+    "init_variable": "",
+    "width": 0.03125,
+    "button_id": "ID39",
+    "button_duration": 0.0,
+    "y": 0.055555555555555552471602709374565,
+    "switch_deck": "",
+    "height": 0.055555555555555552471602709374565,
+    "release_list": [],
+    "functions": 67.0,
+    "stretch": false
+  },
+  {
+    "color": 12632256.0,
+    "persistent": true,
+    "text": "",
+    "release_duration": 0.0,
+    "queueable": false,
+    "command_list": [
+      {
+        "b1": "",
+        "cmd": 2.0,
+        "obsid": "Main",
+        "pos": 0.0,
+        "vis": true,
+        "ms": 0.0,
+        "sel": false,
+        "dis": false,
+        "xpan": 0.0,
+        "b0": "C:\\Users\\User\\Downloads\\Local\\LioranBoard - Copy\\sound - Copy\\aoe2_BOO.ogg",
+        "v0": 0.54658385093167705104377773750457
+      }
+    ],
+    "press_type": 0.0,
+    "x": 0.21875,
+    "border": 2.0,
+    "image": "",
+    "triggers": [],
+    "group_id": "",
+    "overlappable": false,
+    "init_variable": "",
+    "width": 0.03125,
+    "button_id": "ID41",
+    "button_duration": 0.0,
+    "y": 0.055555555555555552471602709374565,
+    "switch_deck": "",
+    "height": 0.055555555555555552471602709374565,
+    "release_list": [],
+    "functions": 67.0,
+    "stretch": false
+  }
+]
