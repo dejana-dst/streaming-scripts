@@ -1,9 +1,9 @@
 {
   "color": 12632256.0,
-  "persistent": 1.0,
+  "persistent": true,
   "text": "lamp",
   "release_duration": 0.0,
-  "queueable": 0.0,
+  "queueable": false,
   "command_list": [
     {
       "b1": "",
@@ -12,40 +12,54 @@
       "pos": 0.0,
       "vis": 1.0,
       "ms": 0.0,
-      "sel": 0.0,
+      "sel": false,
       "dis": 0.0,
       "xpan": 0.0,
-      "b0": "C:\\Users\\User\\Downloads\\Local\\LioranBoard - Copy\\sound - Copy\\aoe1_wololo.ogg",
+      "b0": "C:\\Users\\38267\\Downloads\\Local\\LioranBoard - Copy\\sound - Copy\\aoe1_wololo.ogg",
       "v0": 0.29999999999999998889776975374843
+    },
+    {
+      "cmd": 190.0,
+      "obsid": "Main",
+      "pos": 1.0,
+      "vis": true,
+      "ms": 0.0,
+      "sel": false,
+      "dis": false,
+      "xpan": 0.0,
+      "b0": "20000"
     }
   ],
   "press_type": 0.0,
-  "x": 0.9799999999999999822364316059975,
+  "x": 0.080000000000000001665334536937735,
   "border": 0.0,
   "image": "",
   "triggers": [
     {
       "sub": 0.0,
-      "case_sensitive": 0.0,
+      "case_sensitive": false,
       "founder": 0.0,
       "message": "!gary",
       "moderator": 0.0,
+      "group_id": "",
       "vip": 0.0,
-      "broadcaster": 0.0,
+      "button_id": "ID43",
+      "broadcaster": false,
       "trg": 0.0,
-      "allow_empty_wildcard": 0.0
+      "allow_empty_wildcard": false
     }
   ],
   "group_id": "",
-  "overlappable": 0.0,
+  "overlappable": false,
   "init_variable": "",
-  "width": 0.020000000000000000416333634234434,
-  "button_id": "ID46",
+  "deck": 4.0,
+  "width": 0.020000000000000017763568394002505,
+  "button_id": "ID43",
   "button_duration": 0.0,
-  "y": 0.9799999999999999822364316059975,
+  "y": 0.020000000000000000416333634234434,
   "switch_deck": "",
   "height": 0.020000000000000000416333634234434,
   "release_list": [],
-  "functions": 83.0,
+  "functions": 83,
   "stretch": 0.0
 }
